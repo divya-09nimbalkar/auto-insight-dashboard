@@ -3,4 +3,6 @@ pandas
 numpy
 matplotlib
 seaborn
+scikit-learn
+reportlab
 openpyxl
